@@ -2,7 +2,7 @@ package Practice1;
 
 import java.util.*;
 
-public class _4_ {
+public class _10_ {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int n=scanner.nextInt();
